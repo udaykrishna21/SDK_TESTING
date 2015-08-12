@@ -56,6 +56,7 @@ int main()
 
     print("Hello World\n\r");
     printf("HI.............................\n\r");
+    printf("direct git commit\n\r");
     cleanup_platform();
     return 0;
 }
